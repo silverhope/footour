@@ -1,0 +1,10 @@
+**/target
+
+# IntelliJ IDEA-related files & folders
+**/.idea/
+**/*.iml
+
+# Eclipse-related files & folders
+**/.settings/
+**/.classpath
+**/.project
